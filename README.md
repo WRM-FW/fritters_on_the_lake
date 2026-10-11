@@ -1,5 +1,7 @@
 # Fritters on the Lake — website
 
+中文说明见 [README.zh-CN.md](README.zh-CN.md)（documentation only — the site itself is English).
+
 Static, mobile-first site for **Fritters on the Lake**, a family owned apple
 fritter bakery at 217 King Street, Niagara-on-the-Lake, Ontario.
 
