@@ -33,7 +33,7 @@ source below; anything that could not be traced was dropped or softened.
 | Winter hours | Sat–Sun 12:00–5:00 pm; “back in action full force mid-March” | 3 (their “New Winter Hours” card) |
 | Seasonal closure | “We are closed for the winter — 24 Dec 2022 – March 2023” | 3 |
 | Holiday hours | Fri 24 Dec 11:00 am–4:00 pm; 25–26 Dec and 31 Dec–1 Jan closed | 3 |
-| Rating | 4.9 from 643 reviews (5★ 603 · 4★ 27 · 3★ 6 · 2★ 1 · 1★ 6) | 2 |
+| Rating | 4.9 · 644 reviews at the time of writing (603×5★, 27×4★, 6×3★, 1×2★, 6×1★ at 643). The page shows “640+” so the copy does not go stale weekly | 2 |
 | Review quotes | three, including the critical one, quoted verbatim | 2 |
 | Review topics | apple fritters 118 · friendly owners 104 · cinnamon sugar 14 · indoor seating 15 | 2 |
 | Menu | Dozen $29.00 · Half Dozen $18.50 · Lake Special (3 fritters with vanilla ice cream) $12.50 · Double (two fritters) $7.50 | 1 (counter board photo, July 2026) |
