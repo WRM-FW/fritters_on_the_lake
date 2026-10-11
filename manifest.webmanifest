@@ -1,0 +1,22 @@
+{
+  "name": "Fritters on the Lake",
+  "short_name": "Fritters",
+  "description": "Family owned apple fritter bakery at 217 King Street, Niagara-on-the-Lake.",
+  "id": "/fritters_on_the_lake/",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#FBF7EE",
+  "theme_color": "#5C8547",
+  "lang": "en-CA",
+  "icons": [
+    { "src": "assets/img/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "assets/img/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "assets/img/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Order pickup or delivery", "url": "./#visit" },
+    { "name": "Directions", "url": "./#visit" }
+  ]
+}

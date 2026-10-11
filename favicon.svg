@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Fritters on the Lake apple mark">
+  <rect width="64" height="64" rx="14" fill="#5C8547"/>
+  <g fill="#FBF7EE">
+    <circle cx="24.9" cy="34.7" r="13.8"/>
+    <circle cx="39.1" cy="34.7" r="13.8"/>
+    <ellipse cx="32" cy="39.6" rx="14.6" ry="13.4"/>
+    <path d="M31.1 23.6h1.9l.9 7h-2.3z"/>
+    <path d="M33.4 19.2C36 15.6 40.6 14 44 14.5c-1.2 3.6-5.4 5.7-10.6 4.7z"/>
+  </g>
+</svg>
