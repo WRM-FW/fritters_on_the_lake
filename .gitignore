@@ -1,0 +1,12 @@
+# Source material supplied by the restaurant brief — screenshots and the
+# research package. Kept out of the published site.
+物料/
+_review/
+zoom/
+assets_raw/
+相关链接/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
